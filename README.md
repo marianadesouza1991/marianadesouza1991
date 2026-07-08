@@ -14,7 +14,7 @@ Banco do Brasil · Curitiba, PR
 
 ## Sobre
 
-Assistente de operações agro no **Banco do Brasil**, atuando com crédito rural (PRONAF,   FCO, custeio), em transição de carreira para **automação e análise de dados**.
+Assistente de operações agro no **Banco do Brasil**, atuando com crédito rural (PRONAF,  FCO, custeio), em transição de carreira para **automação e análise de dados**.
 
 Meu principal projeto une essas duas frentes: um **agente de IA construído no Microsoft Copilot Studio** que auxiliar a análise de resgates de DJO, contribuindo em uma melhora de processo e agilidade.
 
