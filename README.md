@@ -33,7 +33,7 @@ Também trabalho com Power BI, SQL e SAS, aplicando esse conhecimento em dashboa
 Agente construído no Microsoft Copilot Studio (Programa Caminhos 2026) que automatiza a validação de documentação de operações de crédito rural. Reduz tempo de análise e padroniza a checagem de documentação contratual e regulatória.
 → [repositório](https://github.com/marianadesouza1991/Cria-o-Agente-AI)
 
-**Dashboard Financeiro — Power BI**
+**Power BI**
 Dashboard interativo para análise de desempenho financeiro e comercial de uma farmácia.
 → [repositório](https://github.com/marianadesouza1991/projeto-power-bi)
 
