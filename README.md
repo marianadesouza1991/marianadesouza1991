@@ -34,7 +34,7 @@ Agente construído no Microsoft Copilot Studio (Programa Caminhos 2026) que auto
 → [repositório](https://github.com/marianadesouza1991/Cria-o-Agente-AI)
 
 **Power BI**
-Dashboard interativo para análise de desempenho financeiro e comercial de uma farmácia.
+Dashboard interativo para análise de desempenho financeiro e comercial de uma empresa fictícia no ramo farmacêutico.
 → [repositório](https://github.com/marianadesouza1991/projeto-power-bi)
 
 ---
