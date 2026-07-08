@@ -2,7 +2,7 @@
 
 # Mariana Souza
 
-Analista de Crédito Rural → Automação & Dados
+Assistente Operacional Pleno  de  Operações de Crédito Rural → Automação & Dados
 
 Banco do Brasil · Curitiba, PR
 
