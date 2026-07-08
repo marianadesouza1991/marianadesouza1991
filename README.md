@@ -45,7 +45,7 @@ Dashboard interativo para análise de desempenho financeiro e comercial de uma f
 |---|---|---|
 | SAS / SQL | Curso interno BB — Leandro Vasconcellos | Concluído |
 | Power BI e SQL | Curso Karine Lago | Em andamento |
-| Python para iniciantes | Programaria | Concluído |
+| Python para iniciantes | PrograMaria | Concluído |
 
 ---
 
