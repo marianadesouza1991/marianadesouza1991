@@ -6,7 +6,7 @@
 
 Banco do Brasil · Curitiba, PR
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+ 
 
 </div>
 
@@ -16,9 +16,9 @@ Banco do Brasil · Curitiba, PR
 
 Assistente de operações agro no **Banco do Brasil**, atuando com crédito rural (PRONAF, SICOR, FCO, custeio), em transição de carreira para **automação e análise de dados**.
 
-Meu principal projeto une essas duas frentes: um **agente de IA construído no Microsoft Copilot Studio** que automatiza a validação documental de operações de crédito rural, eliminando um processo que antes era 100% manual.
+Meu principal projeto une essas duas frentes: um **agente de IA construído no Microsoft Copilot Studio** que auxiliar a análise de resgates de DJO, contribuindo em uma melhora de processo e agilidade.
 
-Também trabalho com **Power BI, SQL e SAS**, aplicando esse conhecimento em dashboards e análises com dados públicos (Bacen, IBGE, Portal da Transparência).
+Também trabalho com **Power BI, SQL e SAS**, aplicando esse conhecimento em dashboards e análises com dados  .
 
 ---
 
@@ -30,7 +30,7 @@ Também trabalho com **Power BI, SQL e SAS**, aplicando esse conhecimento em das
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1B4F72?style=for-the-badge&logo=sas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+ 
 
 </div>
 
