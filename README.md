@@ -22,7 +22,7 @@ Também trabalho com **Power BI, SQL e SAS**, aplicando esse conhecimento em das
 
 ---
 
-## Stack técnica
+## Ferramentas Técnicas
 
 <div align="center">
 
