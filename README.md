@@ -39,9 +39,9 @@ Também trabalho com **Power BI, SQL e SAS**, aplicando esse conhecimento em das
 
 Agente construído no Microsoft Copilot Studio (Programa Caminhos 2026) que automatiza a validação de documentação de operações de crédito rural. Reduz tempo de análise e padroniza a checagem de documentação contratual e regulatória.
 
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-000000?style=flat-square&logo=microsoft&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
-![Validação de Dados](https://img.shields.io/badge/Validação_de_Dados-000000?style=flat-square)
+![Copilot Studio] 
+![Prompt Engineering] 
+![Validação de Dados] 
 
 [![Ver repositório](https://img.shields.io/badge/Ver_repositório-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/marianadesouza1991/Cria-o-Agente-AI)
 
@@ -49,9 +49,9 @@ Agente construído no Microsoft Copilot Studio (Programa Caminhos 2026) que auto
 
 Dashboard interativo para análise de desempenho financeiro e comercial de uma farmácia.
 
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-000000?style=flat-square)
-![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-000000?style=flat-square)
+![Power BI] 
+![DAX] 
+![Modelagem de Dados] 
 
 [![Ver repositório](https://img.shields.io/badge/Ver_repositório-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/marianadesouza1991/projeto-power-bi)
 
