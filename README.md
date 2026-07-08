@@ -63,6 +63,6 @@ Dashboard interativo para análise de desempenho financeiro e comercial de uma f
 
 <div align="center">
 
-*Aberta a oportunidades em automação e análise de dados*
+ 
 
 </div>
