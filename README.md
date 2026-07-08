@@ -31,11 +31,11 @@ Atualmente me desenvolvendo em Power BI, SQL e SAS, aplicando esse conhecimento 
 
 **Agente de IA — Validação Documental**
 Agente construído no Microsoft Copilot Studio (Programa Caminhos 2026) que automatiza a validação de documentação de operações de crédito rural. Reduz tempo de análise e padroniza a checagem de documentação contratual e regulatória.
-→ [repositório](https://github.com/marianadesouza1991/Cria-o-Agente-AI)
+→ [repositório]([https://github.com/marianadesouza1991/Cria-o-Agente-AI](https://github.com/marianadesouza1991/Agende-de-IA---Valida-o-Documentao))
 
 **Power BI**
 Análise de desempenho financeiro e comercial de uma empresa fictícia no ramo farmacêutico no exercício do Curso de Power BI da Karine Lago.
-→ [repositório](https://github.com/marianadesouza1991/projeto-power-bi)
+→ [repositório]([https://github.com/marianadesouza1991/projeto-power-bi](https://github.com/marianadesouza1991/projeto-power-bi))
 
 ---
 
