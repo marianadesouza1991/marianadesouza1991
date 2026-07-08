@@ -49,4 +49,4 @@ Dashboard interativo para análise de desempenho financeiro e comercial de uma f
 
 ---
 
-Aberta a oportunidades em automação e análise de dados
+Buscando oportunidades em automação e análise de dados
