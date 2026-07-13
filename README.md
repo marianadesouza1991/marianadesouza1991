@@ -50,6 +50,8 @@ Análise de desempenho financeiro e comercial de uma empresa fictícia no ramo f
 | SAS / SQL | Curso interno BB — Leandro Vasconcellos | Concluído |
 | Power BI e SQL | Curso Karine Lago | Em andamento |
 | Python para iniciantes | PrograMaria | Concluído |
+| SQL - Básico | HackerRank | Concluído |
+
 
 ---
 
