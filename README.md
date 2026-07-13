@@ -16,7 +16,7 @@ Assistente de operações Agro no Banco do Brasil, atuando com crédito rural (P
 
 Meu principal projeto: um agente de IA construído no Microsoft Copilot Studio que auxilia a análise de resgates de DJO, contribuindo em uma melhora de processo e agilidade, desenvolvido durante minha participação no Caminhos 2026 - Rota Analytics.
 
-Atualmente me desenvolvendo em Power BI e SQL,  aplicando esse conhecimento em dashboards e análises com dados.
+Atualmente me desenvolvendo em Power BI e SQL,  aplicando esse conhecimento em dashboards e análises com dados.Buscando oportunidades em automação e análise de dados
 
 ## Ferramentas Técnicas
 
@@ -55,8 +55,8 @@ Análise de desempenho financeiro e comercial de uma empresa fictícia no ramo f
 
 ---
 
-<div align="center">
+ 
 
-Buscando oportunidades em automação e análise de dados
 
-</div>
+
+ 
